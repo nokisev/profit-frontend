@@ -1,11 +1,11 @@
 .header {
     display: flex;
     color: aliceblue;
-    font-size: 24px;
+    font-size: 36px;
     width: 100%;
-    height: 65px;
+    height: 75px;
     background-color: #11212D;
-    margin-bottom: 10PX;
+    margin-bottom: 100PX;
     justify-content: space-between;
     align-items: center;
 }
